@@ -1,0 +1,11 @@
+{
+  "TemplateId": "BDD2927B-5F9A-4C62-82C0-6547EE416B27",
+  "EmailAddress": "lakshmankamathk@outlook.com",
+  "Subject": "LeaveApproval",
+  "Parameter": {
+    "EmployeeName": "LAK123",
+    "From": "2020-01-01",
+    "To": "2020-10-01",
+    "RequestId": "10DE3EBC-3DA6-44B4-C950-08D833C6A26D"
+  }
+}

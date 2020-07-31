@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmailService.EmailClient\EmailService.EmailClient.csproj" />
+    <ProjectReference Include="..\EmailService.Repository\EmailService.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
